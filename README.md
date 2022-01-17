@@ -1,5 +1,5 @@
-# Ubuntu Installations
-Essential Ubuntu installations such as drivers, packages, programs etc. for future self.
+# CUDA Installations
+CUDA installation on Ubuntu
 
 
 # NVIDIA Driver Installation
